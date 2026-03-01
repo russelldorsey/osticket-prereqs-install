@@ -38,7 +38,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Assign Permissions ost-config.php
 - Setting Up osTicket
 - Install HeidiSQL
-- Setting up MySQL/osTicket Installed
+- Setting Up MySQL
+- osTicket Installed
 
 <h2>Installation Steps</h2>
 
@@ -224,5 +225,13 @@ When the Session Manager window opens, click New. Under the Settings tab, enter 
 </p>
 <p>
 Return to the osTicket Installer page in Microsoft Edge. Under Database Settings, enter osTicket exactly as spelled in the MySQL Database field. In the MySQL Username field, type root, and in the MySQL Password field, also type root. Then click Install Now. osTicket is now successfully installed on your virtual machine. The osTicket Installer page should refresh and display the message, “Congratulations!".
+</p>
+<br />
+
+<p>
+<img width="954" height="1036" alt="Screenshot 2026-02-26 184314" src="https://github.com/user-attachments/assets/76451dd8-da31-4d16-be48-1eff2f55d4a2" />
+</p>
+<p>
+The osTicket Installer page should refresh and display the message, “Congratulations!” Once this message displays, the installation is complete, and you can move on to configuring osTicket.
 </p>
 <br />
