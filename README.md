@@ -15,7 +15,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (22H2)
 
-<h2>List of Prerequisites</h2>
+<h2>List of Prerequisites/Installation Steps</h2>
 
 - Create an Azure Virtual Machine Windows 10
 - Install/Enable IIS in Windows with CGI
@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Setting Up MySQL
 - osTicket Installed
 
-<h2>Installation Steps</h2>
+<h2>Prerequisite/Installation Steps</h2>
 
 <p>
 <img width="2191" height="1410" alt="Screenshot 2026-02-21 115911" src="https://github.com/user-attachments/assets/c4a0499f-dff4-4bda-be7f-6b6518346dc2" />
