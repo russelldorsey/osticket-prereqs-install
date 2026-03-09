@@ -42,25 +42,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="2191" height="1410" alt="Screenshot 2026-02-21 115911" src="https://github.com/user-attachments/assets/c4a0499f-dff4-4bda-be7f-6b6518346dc2" />
 </p>
 <p>
-First, create a Microsoft Azure account if you do not already have one. Once your account is set up, sign in and use the search bar at the top of the portal to search for Virtual Machines. Select Virtual Machines, then click Create.
-
-Under Project Details, select Create new in the Resource group section. Enter a name for your resource group. You can choose any name. For example, I named mine osTicket because I am using this virtual machine for osTicket.
-
-Next, under Instance Details, enter a name for your Virtual Machine. You can choose any name. I used osTicket-vm.
-
-For Region, select the location closest to you.
-
-Under Image, select Windows 10 Version 22H2 x64 Gen2. This option should allow you to choose the D2s_v3 size, which includes 2 vCPUs and 8 GiB of memory.
-
-If that size is not available, try selecting a different Region and/or Image until you find a virtual machine size similar to 2 vCPUs and 8 GiB of memory.
-
-Next, create a username and password for the virtual machine. You may choose any username and password you prefer.
-
-Make sure to check the Licensing box.
-
-Finally, click Review + Create, then click Create again.
-
-Your virtual machine will now begin deploying.
+First, create a Microsoft Azure account if you do not already have one. Once your account is set up, sign in and use the search bar at the top of the portal to search for Virtual Machines. Select Virtual Machines, then click Create. Under Project Details, select Create new in the Resource group section. Enter a name for your resource group. You can choose any name (example, osTicket). Next, under Instance Details, enter a name for your Virtual Machine. You can choose any name (example, osTicket-vm). For Region, select the location closest to you. Under Image, select Windows 10 Version 22H2 x64 Gen2. This option should allow you to choose the D2s_v3 size, which includes 2 vCPUs and 8 GiB of memory. If that size is not available, try selecting a different Region and/or Image until you find a virtual machine size similar to 2 vCPUs and 8 GiB of memory. Next, create a username and password for the virtual machine. You may choose any username and password you prefer. Make sure to check the Licensing box near the bottom of the page. Finally, click Review + Create, then click Create again. Your virtual machine will now begin deploying.
 </p>
 <br />
 
